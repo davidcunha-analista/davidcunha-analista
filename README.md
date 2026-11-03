@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 data-importer="text" align="left">Olá Pessoa 👋</h1>
 
-<!--
-**davidcunha-analista/davidcunha-analista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<br clear="both">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p data-importer="text" align="left">Me chamo David, sou Analista de dados. Combino SQL, Python e analise com compreensão de como os números por trás de uma empresa realmente funcionam.</p>
+
+###
+
+<h2 data-importer="text" align="left"></h2>
+
+###
+
+<p data-importer="text" align="left">💻 Explore meus projetos de dados no meu portfólio ...<br><br>🛠️ Ferramentas<br>• Ferramentas: SQL, Python<br>• Visualização: Power BI, Excel<br>• Database: MySQL<br><br>🗣️ Fala comigo<br>• www.linkedin.com/in/davidcunha-analista<br>• E-mai: david.agencia2021@gmail.com</p>
+
+###
+
+<h2 data-importer="text" align="left"></h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
