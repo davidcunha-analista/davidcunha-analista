@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">💻 Explore meus projetos de dados no meu portfólio ...<br><br>🛠️ Ferramentas<br>• Ferramentas: SQL, Python<br>• Visualização: Power BI, Excel<br>• Database: MySQL<br><br>🗣️ Fala comigo<br>• www.linkedin.com/in/davidcunha-analista<br>• E-mai: david.agencia2021@gmail.com</p>
+<p data-importer="text" align="left">💻 Explore meus projetos de dados no meu portfólio ...<br><br>🛠️ Ferramentas<br>• Ferramentas: SQL, Python<br>• Visualização: Power BI, Excel<br>• Database: MySQL<br><br>🗣️ Fala comigo<br>• www.linkedin.com/in/davidcunha-analista<br>• E-mail: david.agencia2021@gmail.com</p>
 
 ###
 
