@@ -4,7 +4,8 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left">Me chamo David, sou Analista de dados. Combino SQL, Python e analise com compreensão de como os números por trás de uma empresa realmente funcionam.</p>
+<p data-importer="text" align="left">Oi, Me chamo David! Sou analista de dados, sou movido pela curiosidade, aprendizado rápido. paixão de dados veio pelo
+Moneyball: entendi que dados bem analisados vencem o achismo em qualquer mercado.</p>
 
 ###
 
