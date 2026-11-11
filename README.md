@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Olá Pessoa 👋</h1>
+<h1 data-importer="text" align="left">Olá Pessoas 👋</h1>
 
 ###
 
